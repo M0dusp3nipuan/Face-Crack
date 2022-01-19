@@ -17,7 +17,7 @@
 
 `ls`
 
-`python2 people.py`
+`python2 face.py`
 
 ### Donate
 - [ ] Dana  : 083806858479
