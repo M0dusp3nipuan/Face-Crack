@@ -9,12 +9,17 @@ $ pkg install python2 git
 
 $ git clone https://github.com/AngCyer/Face-Crack
 
-$ cd InstaFace
+$ cd Face-Crack
 
-$ pip2 install -r bahan.dulu
+$ pip2 install -r bahan.bakar
 
-$ chmod +x people.py
+$ chmod +x *
 
 $ ls
 
 $ python2 people.py
+
+### Donate
+##### Dana  : 083806858479
+##### Pulsa : 081392979518
+##### Thank For Your Support
