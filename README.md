@@ -20,7 +20,7 @@ $ ls
 $ python2 people.py
 
 ### Donate
- • Dana  : 083806858479
+ _• Dana  : 083806858479_
 
- • Pulsa : 081392979518
+ _• Pulsa : 081392979518_
 ### Thank For Your Support
