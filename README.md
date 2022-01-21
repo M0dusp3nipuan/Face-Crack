@@ -7,11 +7,13 @@
 
 - [ ] pkg install python2 git -y
 
-- [ ] git clone https://github.com/AngCyer/Face-Crack
+- [ ] pip2 install requests mechanize
 
-- [ ]  cd Face-Crack
+- [ ] pip2 install futures bs4
 
-- [ ] pip2 install -r bahan.bakar
+- [ ] git clone https://github.com/AngCyber/Face-Crack
+
+- [ ] cd Face-Crack
 
 - [ ] chmod +x *
 
@@ -19,7 +21,7 @@
 
 - [ ] python2 face.py
 
-### Donate
+### Donasi
 `• Dana  : 083806858479`
 
 `• Pulsa : 081392979518`
